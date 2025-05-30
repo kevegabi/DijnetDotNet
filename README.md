@@ -1,2 +1,2 @@
 # DijnetDotNet
-Dijnet .NET Integration (not official)
+Not official Dijnet integration for C#
